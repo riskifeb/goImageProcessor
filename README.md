@@ -8,7 +8,7 @@ This apps is processor with go native for compress and resize images, before usi
   $ go get -u github.com/riskifeb/goImageProcessor
 ```
 
-### Running Gin
+### Running App
 
 First you need to import goImageProcessor package for using goImageProcessor, one simplest example likes the follow `main.go`:
 
